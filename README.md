@@ -76,22 +76,3 @@ This project is a trading application built using Java Spring Boot, HTML, CSS, J
 <a href="https://docs.google.com/presentation/d/1T7-Wp_bDQAtGXZUVn_fbNRWOEe6S2-QqE0tqOGsPo98/edit?usp=sharing"> Trading App PPT</a>
 
 
-### Installation
-
-1. **Clone the repository**:
-
-   ```sh 
-   https://git.chainsys.com/2024_java_batch/trading_application.git
-
-2.  **Database**:
-    Run the sql script in mysql database 
-3. **Configure the application.properties**:
-   In a Spring Boot project, the application.properties (or application.yml) file is used to configure various settings, such as database connections, server port, logging, and other application-specific configurations. Configure according  to your settings.
-
-4. **Access the App** : 
-Open your browser and go to:
-```sh
-http://localhost:9000 
-
-
-
