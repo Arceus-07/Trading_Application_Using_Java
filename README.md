@@ -71,8 +71,5 @@ This project is a trading application built using Java Spring Boot, HTML, CSS, J
 - Apache Maven
 - MySQL Workbench
 
-### Documentation 
-<a href="https://docs.google.com/document/d/1uDWNu_nVZg_WMPRmFp8GpiPK8FkmjQl9L7_3Mycwurc/edit?usp=sharing"> Trading App User Manual</a><br>
-<a href="https://docs.google.com/presentation/d/1T7-Wp_bDQAtGXZUVn_fbNRWOEe6S2-QqE0tqOGsPo98/edit?usp=sharing"> Trading App PPT</a>
 
 
